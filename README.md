@@ -51,7 +51,7 @@ for Murasaki Bank
 ```
 python -m flask run -p 5000
 ```
-** the -p option sets the port, while Flask natively runs on port 5000, we set Murasaki bank up on port 5000 so both can run simultaneously and transfer money between eachother
+** the -p option sets the port, while Flask natively runs on port 5000, we set Soseki bank up on port 5000 so both can run simultaneously and transfer money between eachother
 
 Soseki bank should now be up and running on your local machine
 
