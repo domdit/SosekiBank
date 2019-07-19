@@ -1,3 +1,11 @@
+## Test out Murasaki/Soseki bank API
+soseki bank:
+https://soseki-bank-21.herokuapp.com/
+
+murasaki bank:
+https://murasaki-bank.herokuapp.com
+
+
 ### Getting Started With Soseki/Murasaki Bank
 This repository needs to be downloaded with https://github.com/domdit/MurasakiBank
 
