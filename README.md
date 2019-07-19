@@ -36,14 +36,14 @@ then you can run the application by:
 
 for Soseki Bank
 ```
-python -m flask run -p 5000
+python -m flask run -p 3000
 ```
 
 for Murasaki Bank
 ```
-python -m flask run -p 3000
+python -m flask run -p 5000
 ```
-** the -p option sets the port to 5000, while Flask natively runs on port 5000, we set Murasaki bank up on port 3000 so both can run simultaneously and transfer money between eachother
+** the -p option sets the port, while Flask natively runs on port 5000, we set Murasaki bank up on port 5000 so both can run simultaneously and transfer money between eachother
 
 Soseki bank should now be up and running on your local machine
 
