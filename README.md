@@ -5,6 +5,8 @@ https://soseki-bank-21.herokuapp.com/
 murasaki bank:
 https://murasaki-bank.herokuapp.com
 
+**If you want to send money externally across both banks, make sure you visit them both prior to doing so in order to initialize them on heroku (as heroku puts the servers to sleep after thirty minutes). The money will still send either way, but your mileage may vary!
+
 
 ### Getting Started With Soseki/Murasaki Bank
 This repository needs to be downloaded with https://github.com/domdit/MurasakiBank
